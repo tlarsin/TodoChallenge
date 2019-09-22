@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Todo Challenge</string>
+    <string name="todoListFragmentLabel">Todo List Fragment</string>
+    <string name="list_item_hint">List Item</string>
+    <string name="todo_hint">e.g. Finish comp sci project by Sunday</string>
+    <string name="empty_todo_placeholder">Add a todo item by clicking the blue circle in the corner</string>
+    <string name="save_button">Save</string>
+    <string name="title">Let\'s be productive today</string>
+    <string name="delete_button">Delete button</string>
+    <string name="edit_button">Edit button</string>
+    <string name="dialog_warning">Enter a description before saving</string>
+</resources>
